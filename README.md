@@ -1,5 +1,5 @@
-# User-Directory
-[![license information](https://img.shields.io/badge/license-MIT-blue)](https://github.com/johnstoc13/User-Directory/blob/master/LICENSE)
+# Employee-Directory
+[![license information](https://img.shields.io/badge/license-MIT-blue)](https://github.com/johnstoc13/employee-directory/blob/master/LICENSE)
 
 ## Description
 
@@ -17,7 +17,7 @@ Tech Used: HTML, CSS, Bootstrap, FontAwesome, Javascript, Node.js, Random User A
 
 ## Deployment
 
-The application can be accessed at: [Chase's Budget Tracker](https://chases-budget-tracker.herokuapp.com/)
+The application can be accessed at: [Employee Directory](https://johnstoc13.github.io/employee-directory/)
 
 ## Resources
 
@@ -49,7 +49,7 @@ Material-UI - https://material-ui.com/
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/johnstoc13/User-Directory/blob/master/LICENSE)
+This project is licensed under the [MIT License](https://github.com/johnstoc13/employee-directory/blob/master/LICENSE)
 
 ## Questions
 
